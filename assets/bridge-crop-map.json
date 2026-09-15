@@ -1,0 +1,51 @@
+{
+  "master": {
+    "file": "bridge-panorama.png",
+    "width": 2146,
+    "height": 732
+  },
+  "coordinateConvention": "[left, top, right, bottom), integer source pixels; no resampling",
+  "avatar": {
+    "box": [
+      156,
+      60,
+      641,
+      545
+    ],
+    "size": [
+      485,
+      485
+    ],
+    "file": "himmel-bridge-avatar.jpg"
+  },
+  "banner": {
+    "box": [
+      721,
+      146,
+      2107,
+      631
+    ],
+    "size": [
+      1386,
+      485
+    ],
+    "file": "frieren-journey.jpg"
+  },
+  "measuredDesktopCss": {
+    "avatar": {
+      "x": 131,
+      "y": 140,
+      "width": 296,
+      "height": 296
+    },
+    "banner": {
+      "x": 476,
+      "y": 192.34375,
+      "width": 846,
+      "height": 296.09375
+    }
+  },
+  "generation": "Built-in image_gen; both crops taken directly from the same final master",
+  "webEncoding": "Avatar JPEG quality 95, banner JPEG quality 93; 4:4:4, optimized. PNG crops remain available locally.",
+  "scene": "The original hero party checks the route while Frieren studies a small spell."
+}
