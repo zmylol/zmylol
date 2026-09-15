@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/frieren-header.svg" width="100%" alt="zmylol — 芙莉莲主题的森林旅途插画与漂浮星光。">
+  <img src="assets/frieren-header.svg" width="100%" alt="zmylol — 勇者一行在石桥边短暂停留：芙莉莲研究小魔法，海塔和艾泽在前方等候；与辛美尔头像来自同一幅旅途场景。">
 </p>
 
 <h3 align="center">Hi, I'm zmylol 👋</h3>
