@@ -1,21 +1,23 @@
 <p align="center">
-  <img src="assets/header-rounded.svg" width="100%" alt="zmylol — AI agents, native apps, local workflows.">
+  <img src="assets/frieren-header.svg" width="100%" alt="zmylol — 芙莉莲主题的森林旅途插画与漂浮星光。">
 </p>
 
 <h3 align="center">Hi, I'm zmylol 👋</h3>
 
+<p align="center"><i>旅途中，收集一点好用的魔法。</i></p>
+
 <p align="center">
-  <img src="assets/typing-rounded.svg" width="420" alt="Building local-first AI tools — from agent runtime to native macOS; Python, Swift and curiosity.">
+  <img src="assets/frieren-typing.svg" width="420" alt="Building local-first AI tools — from agent runtime to native macOS; Python, Swift and curiosity.">
 </p>
 
 <p align="center">我在做本地优先的 AI 工具，把 <b>Agent 的执行过程</b> 与 <b>原生桌面体验</b> 连起来。</p>
 
 <p align="center">
-  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/miniclaude-badge-rounded.svg" alt="Explore MiniClaude"></a>
-  <a href="https://github.com/zmylol/CodexBar"><img src="assets/codexbar-badge-rounded.svg" alt="Explore CodexBar"></a>
+  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude-badge.svg" alt="Explore MiniClaude"></a>
+  <a href="https://github.com/zmylol/CodexBar"><img src="assets/frieren-codexbar-badge.svg" alt="Explore CodexBar"></a>
 </p>
 
-<h3 align="center">🧰 My toolbox</h3>
+<h3 align="center">🪄 My spellbook</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py%2Cswift%2Cjs%2Cgit%2Capple%2Cobsidian&amp;theme=dark&amp;perline=6" width="320" alt="Python, Swift, JavaScript, Git, macOS and Obsidian">
@@ -23,11 +25,11 @@
 
 <p align="center"><sub>Python · Textual · SwiftUI · AppKit · MCP</sub></p>
 
-## 🚀 Things I'm building
+## 📖 Things I'm building
 
 <p align="center">
-  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/miniclaude-rounded.svg" width="400" alt="MiniClaude — Agent runtime project cover"></a>
-  <a href="https://github.com/zmylol/CodexBar"><img src="assets/codexbar-rounded.svg" width="400" alt="CodexBar — Native macOS project cover"></a>
+  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude.svg" width="400" alt="MiniClaude — Agent runtime project cover"></a>
+  <a href="https://github.com/zmylol/CodexBar"><img src="assets/frieren-codexbar.svg" width="400" alt="CodexBar — Native macOS project cover"></a>
 </p>
 
 - **🧠 [MiniClaude](https://github.com/zmylol/MiniClaude)** — 本地 AI Agent 系统，连接 CLI、终端和桌面客户端；支持工具调用、权限审批、会话管理与 MCP。  
@@ -35,7 +37,7 @@
 - **🪟 [CodexBar](https://github.com/zmylol/CodexBar)** — macOS 原生悬浮条，集中查看 VS Code 中的 Codex 项目进展；悬停读回复、点击回项目，另有知识库阅读入口。  
   [开始使用 →](https://github.com/zmylol/CodexBar#快速开始) · [观看演示](https://github.com/zmylol/CodexBar#看看它怎么工作)
 
-## 🎬 A little demo
+## 🎞️ A glimpse of the journey
 
 <p align="center"><b>CodexBar · 看进展，读回复，需要时再接手。</b></p>
 
@@ -58,4 +60,6 @@
 <p align="center">欢迎试用，也欢迎带着具体的问题和想法来交流。</p>
 <p align="center"><a href="https://github.com/zmylol/MiniClaude/issues">MiniClaude Issues</a> · <a href="https://github.com/zmylol/CodexBar/issues">CodexBar Issues</a></p>
 
-<p align="center"><img src="assets/footer-rounded.svg" width="100%" alt="Purple-to-cyan decorative wave"></p>
+<p align="center"><img src="assets/frieren-footer.svg" width="100%" alt="A quiet floral ornament with soft golden lights"></p>
+
+<p align="center"><sub>Theme inspired by <a href="https://websunday.net/work/708/">葬送的芙莉莲</a> · <a href="assets/frieren-artwork.md">Artwork notes</a></sub></p>

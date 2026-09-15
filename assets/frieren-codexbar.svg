@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220" role="img" aria-labelledby="title desc">
+  <title id="title">CodexBar — Native macOS</title>
+  <desc id="desc">An old-paper travel companion cover with a dark-green title, a slowly turning gold magic circle and a small blue flower.</desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1">
+      <stop stop-color="#F1E9D3"/>
+      <stop offset="1" stop-color="#D8CEAB"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect width="854" height="220" rx="32"/></clipPath>
+    <g id="seal" fill="none" stroke="#8E8156" stroke-width="1">
+      <circle r="80" opacity=".45"/>
+      <circle r="72" opacity=".7"/>
+      <circle r="52" opacity=".4"/>
+      <circle r="27" opacity=".6"/>
+      <path d="M0-80V-66M80 0H66M0 80V66M-80 0H-66" opacity=".8"/>
+      <path d="M-37-37A52 52 0 0 1 37-37M37 37A52 52 0 0 1-37 37" stroke-width="2" opacity=".65"/>
+      <path d="M0-58 5-52 0-46-5-52ZM58 0 52 5 46 0 52-5ZM0 58 5 52 0 46-5 52ZM-58 0-52 5-46 0-52-5Z" opacity=".7"/>
+      <path d="M-19-19 19 19M19-19-19 19" opacity=".36"/>
+      <circle cy="-72" r="3" fill="#8E8156" stroke="none"/>
+      <circle cy="72" r="3" fill="#8E8156" stroke="none"/>
+    </g>
+    <g id="flower">
+      <g fill="#6C98B2" stroke="#527C94" stroke-width=".6">
+        <ellipse cy="-10" rx="5.4" ry="10"/>
+        <ellipse cy="-10" rx="5.4" ry="10" transform="rotate(72)"/>
+        <ellipse cy="-10" rx="5.4" ry="10" transform="rotate(144)"/>
+        <ellipse cy="-10" rx="5.4" ry="10" transform="rotate(216)"/>
+        <ellipse cy="-10" rx="5.4" ry="10" transform="rotate(288)"/>
+      </g>
+      <circle r="3.5" fill="#E3C980"/>
+    </g>
+  </defs>
+  <style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+  <g clip-path="url(#rounded)">
+    <rect width="854" height="220" fill="url(#paper)"/>
+    <path d="M383 242Q480 110 671 199T934 136" fill="none" stroke="#7D9275" stroke-width="44" opacity=".065"/>
+    <rect x="16" y="16" width="822" height="188" rx="21" fill="none" stroke="#8E8156" stroke-opacity=".36"/>
+    <path d="M36 51V36H51M803 36H818V51M36 169V184H51M803 184H818V169" fill="none" stroke="#8E8156" stroke-opacity=".62"/>
+    <text x="54" y="48" fill="#756A42" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="3">02 / COMPANION</text>
+    <text x="52" y="112" fill="#173D35" font-family="Georgia, 'Times New Roman', serif" font-size="56">CodexBar</text>
+    <text x="55" y="151" fill="#466150" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">NATIVE MACOS</text>
+    <path d="M55 174H157" stroke="#8E8156" stroke-opacity=".6"/>
+    <g transform="translate(740 110)">
+      <g class="motion"><use href="#seal"/><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="36s" repeatCount="indefinite"/></g>
+      <use class="still" href="#seal"/>
+    </g>
+    <path d="M642 189Q659 180 670 160M653 181Q642 178 641 170Q653 171 653 181M660 174Q670 175 676 169Q664 166 660 174" fill="none" stroke="#718467" stroke-width="1.2"/>
+    <use href="#flower" transform="translate(675 148) rotate(-14)"/>
+    <g fill="#8E8156">
+      <circle class="motion" cx="629" cy="79" r="2" opacity=".5"><animate attributeName="opacity" values=".2;.65;.2" dur="8s" repeatCount="indefinite"/></circle>
+      <circle class="still" cx="629" cy="79" r="2" opacity=".4"/>
+      <circle cx="690" cy="42" r="1.2" opacity=".48"/>
+    </g>
+  </g>
+</svg>

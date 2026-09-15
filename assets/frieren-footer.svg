@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="64" viewBox="0 0 854 64" role="img" aria-labelledby="title desc">
+  <title id="title">A blue flower for the journey</title>
+  <desc id="desc">A small blue flower in a slowly turning gold ring, between fine sage and gold rules.</desc>
+  <defs>
+    <linearGradient id="rule">
+      <stop stop-color="#8A9D83" stop-opacity=".05"/>
+      <stop offset=".5" stop-color="#8A9D83" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#B3A272" stop-opacity=".8"/>
+    </linearGradient>
+    <g id="ring" fill="none" stroke="#B3A272" stroke-width=".8">
+      <circle r="25" opacity=".6"/>
+      <path d="M0-29V-21M29 0H21M0 29V21M-29 0H-21" opacity=".7"/>
+      <circle cy="-25" r="2" fill="#B3A272" stroke="none"/>
+      <circle cy="25" r="2" fill="#B3A272" stroke="none"/>
+    </g>
+  </defs>
+  <style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>
+  <path d="M22 32H379" fill="none" stroke="url(#rule)"/>
+  <path d="M22 32H379" fill="none" stroke="url(#rule)" transform="translate(854 0) scale(-1 1)"/>
+  <path d="M374 32 379 29 384 32 379 35ZM470 32 475 29 480 32 475 35Z" fill="#B3A272" opacity=".65"/>
+  <g transform="translate(427 32)">
+    <g class="motion"><use href="#ring"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/></g>
+    <use class="still" href="#ring"/>
+    <g fill="#8FB1C4" stroke="#AFCCD9" stroke-width=".4">
+      <ellipse cy="-7" rx="3.8" ry="7"/>
+      <ellipse cy="-7" rx="3.8" ry="7" transform="rotate(72)"/>
+      <ellipse cy="-7" rx="3.8" ry="7" transform="rotate(144)"/>
+      <ellipse cy="-7" rx="3.8" ry="7" transform="rotate(216)"/>
+      <ellipse cy="-7" rx="3.8" ry="7" transform="rotate(288)"/>
+    </g>
+    <circle r="2.7" fill="#D8C58B"/>
+  </g>
+  <g fill="#B3A272">
+    <circle class="motion" cx="348" cy="23" r="1.5"><animate attributeName="opacity" values=".2;.65;.2" dur="8s" repeatCount="indefinite"/></circle>
+    <circle class="motion" cx="506" cy="41" r="1.3"><animate attributeName="opacity" values=".55;.15;.55" dur="9s" repeatCount="indefinite"/></circle>
+    <g class="still" opacity=".4"><circle cx="348" cy="23" r="1.5"/><circle cx="506" cy="41" r="1.3"/></g>
+  </g>
+</svg>

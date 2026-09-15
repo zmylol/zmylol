@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 42" width="420px" height="42px">
 
-    <defs><clipPath id="profile-rounded" clipPathUnits="userSpaceOnUse"><rect width="420" height="42" rx="10" /></clipPath></defs><g clip-path="url(#profile-rounded)"><rect width="420" height="42" fill="#312E81" /><style>
+    <defs><clipPath id="profile-rounded" clipPathUnits="userSpaceOnUse"><rect width="420" height="42" rx="10" /></clipPath></defs><g clip-path="url(#profile-rounded)"><rect width="420" height="42" fill="#173D35" /><style>
 @font-face {
   font-family: 'Fira Code';
   font-style: normal;
@@ -15,7 +15,7 @@
                             
                                 <animate id="d0" attributeName="d" begin="0s;d2.end" dur="4300ms" fill="remove" values="m0,21 h0 ; m0,21 h420 ; m0,21 h420 ; m0,21 h0" keyTimes="0;0.48372093023256;0.87906976744186;1" />
                     </path>
-    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F5F3FF" font-size="18" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F3ECD8" font-size="18" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path0">
             Building local-first AI tools
         </textPath>
@@ -24,7 +24,7 @@
                             
                                 <animate id="d1" attributeName="d" begin="d0.end" dur="4300ms" fill="remove" values="m0,21 h0 ; m0,21 h420 ; m0,21 h420 ; m0,21 h0" keyTimes="0;0.48372093023256;0.87906976744186;1" />
                     </path>
-    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F5F3FF" font-size="18" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F3ECD8" font-size="18" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path1">
             From agent runtime to native macOS
         </textPath>
@@ -33,7 +33,7 @@
                             
                                 <animate id="d2" attributeName="d" begin="d1.end" dur="4300ms" fill="remove" values="m0,21 h0 ; m0,21 h420 ; m0,21 h420 ; m0,21 h0" keyTimes="0;0.48372093023256;0.87906976744186;1" />
                     </path>
-    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F5F3FF" font-size="18" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
+    <text font-family="&quot;Fira Code&quot;, monospace" fill="#F3ECD8" font-size="18" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
         <textPath xlink:href="#path2">
             Python + Swift + curiosity
         </textPath>
