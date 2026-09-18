@@ -39,20 +39,40 @@
 
 ## 🎞️ A glimpse of the journey
 
-<p align="center"><b>CodexBar · 看进展，读回复，需要时再接手。</b></p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <b>🪟 CodexBar · 任务进展</b><br>
+      <sub>看进展、读回复，需要时再接手。</sub>
+    </td>
+    <td width="50%" align="center">
+      <b>📚 Obsidian · 知识库阅读</b><br>
+      <sub>按库查看文章与摘要，更新未读状态。</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/task-demo-rounded.svg">
+        <img src="assets/task-demo-rounded.svg" width="360" alt="CodexBar 原生界面演示：查看多项目和分支状态、展开回复与工具输出；使用虚构任务样例。点击查看大图。">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/knowledge-demo-rounded.svg">
+        <img src="assets/knowledge-demo-rounded.svg" width="360" alt="CodexBar 知识库阅读演示：按库查看文章与摘要，更新未读状态；使用虚构文章样例。点击查看大图。">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><a href="https://github.com/zmylol/CodexBar#看看它怎么工作">功能演示</a> · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/images/task-demo-poster.png">静态预览</a></sub>
+    </td>
+    <td align="center">
+      <sub><a href="assets/knowledge-demo-rounded.svg">查看大图</a> · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/KNOWLEDGE_SETUP.md">配置指南</a></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/zmylol/CodexBar#看看它怎么工作"><img src="assets/task-demo-rounded.svg" width="100%" alt="CodexBar 原生界面演示：查看多项目和分支状态、展开回复与工具输出；使用虚构任务样例。"></a>
-</p>
-
-<p align="center"><sub>原生界面录制 · 使用虚构任务样例，项目窗口为场景示意 · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/images/task-demo-poster.png">静态预览</a></sub></p>
-
-<details>
-<summary>📚 再看看 Obsidian 知识库阅读入口</summary>
-<br>
-<p align="center"><img src="assets/knowledge-demo-rounded.svg" width="616" alt="CodexBar 知识库阅读演示：按库查看文章与摘要，更新未读状态；使用虚构文章样例。"></p>
-<p align="center"><sub>独立的知识库阅读入口 · 使用虚构文章样例 · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/KNOWLEDGE_SETUP.md">配置指南</a></sub></p>
-</details>
+<p align="center"><sub>原生界面录制 · 使用虚构任务与文章样例，项目窗口为场景示意 · 点击动图查看大图</sub></p>
 
 <br>
 
