@@ -46,7 +46,7 @@
       <sub>看进展、读回复，需要时再接手。</sub>
     </td>
     <td width="50%" align="center">
-      <b>📚 Obsidian · 知识库阅读</b><br>
+      <b>📚 Obsidian × Codex 自动化</b><br>
       <sub>按库查看文章与摘要，更新未读状态。</sub>
     </td>
   </tr>
@@ -71,6 +71,8 @@
     </td>
   </tr>
 </table>
+
+<p align="center"><b>Codex 自动化</b>定时阅读来源文章、整理摘要并写入 <b>Obsidian 知识库</b>；<b>CodexBar</b> 展示文章、摘要与未读状态，点击即可在 Obsidian 中继续阅读。</p>
 
 <p align="center"><sub>原生界面录制 · 使用虚构任务与文章样例，项目窗口为场景示意 · 点击动图查看大图</sub></p>
 
