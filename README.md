@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/frieren-header.svg" width="100%" alt="zmylol — 勇者一行在石桥边短暂停留：芙莉莲研究小魔法，海塔和艾泽在前方等候；与辛美尔头像来自同一幅旅途场景。">
+  <img src="assets/frieren-header.svg" width="100%" alt="zmylol — The hero's party pauses by a stone bridge: Frieren studies a little spell while Heiter and Eisen wait ahead. The banner and Himmel avatar share the same journey scene.">
 </p>
 
 <h3 align="center">Hi, I'm zmylol 👋</h3>
 
-<p align="center"><i>旅途中，收集一点好用的魔法。</i></p>
+<p align="center"><i>Collecting useful little spells along the way.</i></p>
 
 <p align="center">
   <img src="assets/frieren-typing.svg" width="420" alt="Building local-first AI tools — from agent runtime to native macOS; Python, Swift and curiosity.">
 </p>
 
-<p align="center">我在做本地优先的 AI 工具，把 <b>Agent 的执行过程</b> 与 <b>原生桌面体验</b> 连起来。</p>
+<p align="center">I build local-first AI tools that bring <b>agent workflows</b> to <b>native desktop experiences</b>.</p>
 
 <p align="center">
   <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude-badge.svg" alt="Explore MiniClaude"></a>
@@ -32,56 +32,56 @@
   <a href="https://github.com/zmylol/CodexBar"><img src="assets/frieren-codexbar.svg" width="400" alt="CodexBar — Native macOS project cover"></a>
 </p>
 
-- **🧠 [MiniClaude](https://github.com/zmylol/MiniClaude)** — 本地 AI Agent 系统，连接 CLI、终端和桌面客户端；支持工具调用、权限审批、会话管理与 MCP。  
-  [开始使用 →](https://github.com/zmylol/MiniClaude#快速开始) · [Roadmap](https://github.com/zmylol/MiniClaude/blob/main/ROADMAP.md)
-- **🪟 [CodexBar](https://github.com/zmylol/CodexBar)** — macOS 原生悬浮条，集中查看 VS Code 中的 Codex 项目进展；悬停读回复、点击回项目，另有知识库阅读入口。  
-  [开始使用 →](https://github.com/zmylol/CodexBar#快速开始) · [观看演示](https://github.com/zmylol/CodexBar#看看它怎么工作)
+- **🧠 [MiniClaude](https://github.com/zmylol/MiniClaude)** — A local AI agent system connecting CLI, terminal, and desktop clients, with tool calling, permission approvals, session management, and MCP support.  
+  [Get started →](https://github.com/zmylol/MiniClaude#快速开始) · [Roadmap](https://github.com/zmylol/MiniClaude/blob/main/ROADMAP.md)
+- **🪟 [CodexBar](https://github.com/zmylol/CodexBar)** — A native macOS floating bar for tracking Codex progress across VS Code projects. Hover to read replies, click to return to a project, or browse your knowledge base.  
+  [Get started →](https://github.com/zmylol/CodexBar#快速开始) · [Explore features](https://github.com/zmylol/CodexBar#看看它怎么工作)
 
 ## 🎞️ A glimpse of the journey
 
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <b>🪟 CodexBar · 任务进展</b><br>
-      <sub>看进展、读回复，需要时再接手。</sub>
+      <b>🪟 CodexBar · Task progress</b><br>
+      <sub>Follow progress, read replies, step in when needed.</sub>
     </td>
     <td width="50%" align="center">
-      <b>📚 Obsidian × Codex 自动化</b><br>
-      <sub>按库查看文章与摘要，更新未读状态。</sub>
+      <b>📚 Obsidian × Codex automations</b><br>
+      <sub>Browse articles and summaries by vault, and track what you've read.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="assets/task-demo-rounded.svg">
-        <img src="assets/task-demo-rounded.svg" width="360" alt="CodexBar 原生界面演示：查看多项目和分支状态、展开回复与工具输出；使用虚构任务样例。点击查看大图。">
+        <img src="assets/task-demo-rounded.svg" width="360" alt="CodexBar native UI demo: track projects and branches, expand replies, and inspect tool output. Uses fictional tasks and a Chinese-language interface. Click to enlarge.">
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="assets/knowledge-demo-rounded.svg">
-        <img src="assets/knowledge-demo-rounded.svg" width="360" alt="CodexBar 知识库阅读演示：按库查看文章与摘要，更新未读状态；使用虚构文章样例。点击查看大图。">
+        <img src="assets/knowledge-demo-rounded.svg" width="360" alt="CodexBar knowledge reader demo: browse articles and summaries by vault and update read status. Uses fictional articles and a Chinese-language interface. Click to enlarge.">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <sub><a href="https://github.com/zmylol/CodexBar#看看它怎么工作">功能演示</a> · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/images/task-demo-poster.png">静态预览</a></sub>
+      <sub><a href="https://github.com/zmylol/CodexBar#看看它怎么工作">Feature demo</a> · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/images/task-demo-poster.png">Static preview</a></sub>
     </td>
     <td align="center">
-      <sub><a href="assets/knowledge-demo-rounded.svg">查看大图</a> · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/KNOWLEDGE_SETUP.md">配置指南</a></sub>
+      <sub><a href="assets/knowledge-demo-rounded.svg">View full size</a> · <a href="https://github.com/zmylol/CodexBar/blob/main/docs/KNOWLEDGE_SETUP.md">Setup guide</a></sub>
     </td>
   </tr>
 </table>
 
-<p align="center"><b>Codex 自动化</b>定时阅读来源文章、整理摘要并写入 <b>Obsidian 知识库</b>；<b>CodexBar</b> 展示文章、摘要与未读状态，点击即可在 Obsidian 中继续阅读。</p>
+<p align="center"><b>Codex automations</b> read source articles on a schedule, summarize them, and save the results to <b>Obsidian vaults</b>. <b>CodexBar</b> displays articles, summaries, and unread status; click to keep reading in Obsidian.</p>
 
-<p align="center"><sub>原生界面录制 · 使用虚构任务与文章样例，项目窗口为场景示意 · 点击动图查看大图</sub></p>
+<p align="center"><sub>Native UI recordings in Chinese · Fictional tasks and articles; project windows illustrate the workflow · Click either animation to enlarge</sub></p>
 
 <br>
 
-<p align="center"><b>让工具顺手一点，让过程清楚一点。</b></p>
-<p align="center">欢迎试用，也欢迎带着具体的问题和想法来交流。</p>
+<p align="center"><b>Tools that feel natural. Workflows you can follow.</b></p>
+<p align="center">Give them a try, and bring your questions, ideas, and feedback.</p>
 <p align="center"><a href="https://github.com/zmylol/MiniClaude/issues">MiniClaude Issues</a> · <a href="https://github.com/zmylol/CodexBar/issues">CodexBar Issues</a></p>
 
 <p align="center"><img src="assets/frieren-footer.svg" width="100%" alt="A quiet floral ornament with soft golden lights"></p>
 
-<p align="center"><sub>Theme inspired by <a href="https://websunday.net/work/708/">葬送的芙莉莲</a> · <a href="assets/frieren-artwork.md">Artwork notes</a></sub></p>
+<p align="center"><sub>Theme inspired by <a href="https://websunday.net/work/708/">Frieren: Beyond Journey's End</a> · <a href="assets/frieren-artwork.md">Artwork notes</a></sub></p>
