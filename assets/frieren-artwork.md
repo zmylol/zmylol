@@ -1,6 +1,6 @@
 # Artwork notes
 
-The profile's theme is inspired by **Frieren: Beyond Journey's End / 葬送的芙莉莲**. The forest, ivory, sage and antique-gold palette is a design interpretation.
+The profile's theme is inspired by **Frieren: Beyond Journey's End**. The forest, ivory, sage and antique-gold palette is a design interpretation.
 
 - [Original manga](https://websunday.net/work/708/)
 - [Original hero party - official introduction](https://frieren-anime.jp/news/139/)
@@ -28,4 +28,4 @@ The rounded SVG embeds the banner JPEG, adds a small title and slow floating lig
 
 The project cards and floral divider are original vector decorations. The typing animation is adapted from [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg), and the project badges are adapted from [Shields.io](https://shields.io/). The technology icons come from [Skill Icons](https://github.com/tandpfun/skill-icons).
 
-The CodexBar demonstrations remain the original project recordings with their existing fictional-example labels.
+The CodexBar demonstrations remain the original project recordings, including their Chinese-language interface and existing fictional-example labels. The surrounding profile descriptions are in English.
