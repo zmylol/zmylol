@@ -6,38 +6,33 @@
 
 <p align="center"><i>Collecting useful little spells along the way.</i></p>
 
-<p align="center">
-  <img src="assets/frieren-typing.svg" width="420" alt="Building local-first AI tools — from agent runtime to native macOS; Python, Swift and curiosity.">
-</p>
+<p align="center">I build local-first AI tools. My main focus is <b><a href="https://github.com/zmylol/MiniClaude">MiniClaude</a></b>.</p>
 
-<p align="center">I build local-first AI tools that bring <b>agent workflows</b> to <b>native desktop experiences</b>.</p>
+## ✨ Featured project
 
 <p align="center">
-  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude-badge.svg" alt="Explore MiniClaude"></a>
-  <a href="https://github.com/zmylol/CodexBar"><img src="assets/frieren-codexbar-badge.svg" alt="Explore CodexBar"></a>
+  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude.svg" width="100%" alt="MiniClaude — Featured project. A local-first AI agent for your terminal and desktop."></a>
 </p>
 
-<h3 align="center">🪄 My spellbook</h3>
+**A local-first AI agent for your terminal and desktop.** MiniClaude brings tool execution, permission approvals, and saved conversations into one agent runtime.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py%2Cswift%2Cjs%2Cgit%2Capple%2Cobsidian&amp;theme=dark&amp;perline=6" width="320" alt="Python, Swift, JavaScript, Git, macOS and Obsidian">
-</p>
+- **Choose your workspace.** Use the CLI, terminal UI, or native macOS desktop.
+- **Follow the work.** Watch streaming replies and tool execution, approve actions, stop runs, and resume saved conversations.
+- **Connect your tools.** Work with built-in file and shell tools, parallel tool calls, and MCP integrations.
 
-<p align="center"><sub>Python · Textual · SwiftUI · AppKit · MCP</sub></p>
+**[Get started with MiniClaude →](https://github.com/zmylol/MiniClaude#快速开始)**
 
-## 📖 Things I'm building
+[Desktop guide](https://github.com/zmylol/MiniClaude/blob/main/docs/DESKTOP.md) · [Roadmap](https://github.com/zmylol/MiniClaude/blob/main/ROADMAP.md) · [Feedback & ideas](https://github.com/zmylol/MiniClaude/issues)
 
-<p align="center">
-  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude.svg" width="400" alt="MiniClaude — Agent runtime project cover"></a>
-  <a href="https://github.com/zmylol/CodexBar"><img src="assets/frieren-codexbar.svg" width="400" alt="CodexBar — Native macOS project cover"></a>
-</p>
+---
 
-- **🧠 [MiniClaude](https://github.com/zmylol/MiniClaude)** — A local AI agent system connecting CLI, terminal, and desktop clients, with tool calling, permission approvals, session management, and MCP support.  
-  [Get started →](https://github.com/zmylol/MiniClaude#快速开始) · [Roadmap](https://github.com/zmylol/MiniClaude/blob/main/ROADMAP.md)
-- **🪟 [CodexBar](https://github.com/zmylol/CodexBar)** — A native macOS floating bar for tracking Codex progress across VS Code projects. Hover to read replies, click to return to a project, or browse your knowledge base.  
-  [Get started →](https://github.com/zmylol/CodexBar#快速开始) · [Explore features](https://github.com/zmylol/CodexBar#看看它怎么工作)
+### Also building
 
-## 🎞️ A glimpse of the journey
+**[CodexBar](https://github.com/zmylol/CodexBar)** — A native macOS companion for following Codex tasks across VS Code projects, with an Obsidian knowledge reader.
+
+<details>
+<summary>CodexBar demos &amp; setup</summary>
+<br>
 
 <table align="center">
   <tr>
@@ -76,11 +71,19 @@
 
 <p align="center"><sub>Native UI recordings in Chinese · Fictional tasks and articles; project windows illustrate the workflow · Click either animation to enlarge</sub></p>
 
-<br>
 
-<p align="center"><b>Tools that feel natural. Workflows you can follow.</b></p>
-<p align="center">Give them a try, and bring your questions, ideas, and feedback.</p>
-<p align="center"><a href="https://github.com/zmylol/MiniClaude/issues">MiniClaude Issues</a> · <a href="https://github.com/zmylol/CodexBar/issues">CodexBar Issues</a></p>
+<p><a href="https://github.com/zmylol/CodexBar#快速开始">Get started with CodexBar</a> · <a href="https://github.com/zmylol/CodexBar/issues">Feedback &amp; ideas</a></p>
+</details>
+
+### 🪄 My spellbook
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py%2Cswift%2Cjs%2Cgit%2Capple%2Cobsidian&amp;theme=dark&amp;perline=6" width="240" alt="Python, Swift, JavaScript, Git, macOS and Obsidian">
+</p>
+
+<sub>Python · Textual · SwiftUI · AppKit · MCP</sub>
+
+<br>
 
 <p align="center"><img src="assets/frieren-footer.svg" width="100%" alt="A quiet floral ornament with soft golden lights"></p>
 

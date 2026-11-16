@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220" role="img" aria-labelledby="title desc">
-  <title id="title">MiniClaude — Agent Runtime</title>
+  <title id="title">MiniClaude — Local-first AI Agent</title>
   <desc id="desc">A forest-green spellbook cover with an ivory title, a slowly turning gold magic circle and a small blue flower.</desc>
   <defs>
     <linearGradient id="forest" x2="1" y2="1">
@@ -36,9 +36,9 @@
     <path d="M383 242Q480 110 671 199T934 136" fill="none" stroke="#87A489" stroke-width="44" opacity=".055"/>
     <rect x="16" y="16" width="822" height="188" rx="21" fill="none" stroke="#C6B887" stroke-opacity=".34"/>
     <path d="M36 51V36H51M803 36H818V51M36 169V184H51M803 184H818V169" fill="none" stroke="#C6B887" stroke-opacity=".6"/>
-    <text x="54" y="48" fill="#C6B887" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="3">01 / SPELLBOOK</text>
+    <text x="54" y="48" fill="#C6B887" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="3">01 / FEATURED PROJECT</text>
     <text x="52" y="112" fill="#F1E9D3" font-family="Georgia, 'Times New Roman', serif" font-size="56">MiniClaude</text>
-    <text x="55" y="151" fill="#BDD1BE" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">AGENT RUNTIME</text>
+    <text x="55" y="151" fill="#BDD1BE" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">LOCAL-FIRST AI AGENT</text>
     <path d="M55 174H157" stroke="#C6B887" stroke-opacity=".55"/>
     <g transform="translate(740 110)">
       <g class="motion"><use href="#seal"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/></g>
