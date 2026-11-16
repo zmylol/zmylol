@@ -11,7 +11,7 @@
 ## ✨ Featured project
 
 <p align="center">
-  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude.svg" width="100%" alt="MiniClaude — Featured project. A local-first AI agent for your terminal and desktop."></a>
+  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude.svg?v=20261116" width="100%" alt="MiniClaude — Featured project. A local-first AI agent for your terminal and desktop."></a>
 </p>
 
 **A local-first AI agent for your terminal and desktop.** MiniClaude brings tool execution, permission approvals, and saved conversations into one agent runtime.
