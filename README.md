@@ -8,11 +8,9 @@
 
 <p align="center">I build local-first AI tools. My main focus is <b><a href="https://github.com/zmylol/MiniClaude">MiniClaude</a></b>.</p>
 
-## ✨ Featured project
+<p><sub>FEATURED PROJECT</sub></p>
 
-<p align="center">
-  <a href="https://github.com/zmylol/MiniClaude"><img src="assets/frieren-miniclaude.svg?v=20261116" width="100%" alt="MiniClaude — Featured project. A local-first AI agent for your terminal and desktop."></a>
-</p>
+<h2><img src="assets/frieren-miniclaude.svg?v=20261116-compact" width="32" height="32" alt=""> <a href="https://github.com/zmylol/MiniClaude">MiniClaude</a></h2>
 
 **A local-first AI agent for your terminal and desktop.** MiniClaude brings tool execution, permission approvals, and saved conversations into one agent runtime.
 
